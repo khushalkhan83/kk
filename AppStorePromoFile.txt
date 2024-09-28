@@ -1,0 +1,1 @@
+{"gameName":"Island Survival: Suvivor Saga","storeLink":"https://apps.apple.com/gr/app/island-survival-survivor-saga/id6680189200","imageUrls":["https://raw.githubusercontent.com/khushalkhan83/kk/refs/heads/main/image.jpg"]}
